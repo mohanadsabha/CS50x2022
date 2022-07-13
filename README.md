@@ -1,1 +1,1 @@
-# CS50
+# This was CS50
