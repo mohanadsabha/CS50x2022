@@ -96,20 +96,11 @@ Contributions welcome! To propose enhancements or add alternative solutions:
 
 ---
 
-## 💡 Next Steps
-
-- Add code screenshots or output examples
-- Include a TOC for easy navigation
-- Store ER diagrams for web/DB work
-- Add badges: build status, license, etc.
-
----
-
 ## 🧑‍💻 About Me
 
 **MOHANAD M. ABUSABHA**
 - GitHub: [mohanadsabha](https://github.com/mohanadsabha)  
-– LinkedIn: [in/mohanadsabha](https://www.linkedin.com/in/mohanadsabha)
+- LinkedIn: [in/mohanadsabha](https://www.linkedin.com/in/mohanadsabha)
 
 ---
 
